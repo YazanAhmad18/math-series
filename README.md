@@ -12,4 +12,4 @@
 
 | Assiment | Links                                                     |
 | -------- | ---------------------------------------------------------|
-| Lab: 02 - Modules, Containers, and Testing  | [PR (1)]() |
+| Lab: 02 - Modules, Containers, and Testing  | [PR (1)](https://github.com/YazanAhmad18/math-series/pull/1) |
