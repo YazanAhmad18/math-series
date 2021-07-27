@@ -33,7 +33,7 @@ def list_lucas(numbers: list) -> list:
 
 
 
-def sum_series(n , first , second):
+def sum_series(n , first=0 , second=1):
     if type(n) != int:
         return ("Invalid Input")
     elif n < 0:
