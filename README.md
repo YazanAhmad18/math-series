@@ -9,6 +9,7 @@
 * sum_series with one required parameter and two optional parameters. The required parameter will determine which element in the series to print. The two optional parameters will have default values of 0 and 1 and will determine the first two values for the series to be produced.
 
 
+
 | Assiment | Links                                                     |
-| -------- | --------------------------------------------------------- |
-| Lab: 02 - Modules, Containers, and Testing  | [PR ()]() |
+| -------- | ---------------------------------------------------------|
+| Lab: 02 - Modules, Containers, and Testing  | [PR (1)](https://github.com/YazanAhmad18/math-series/pull/1) |
